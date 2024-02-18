@@ -1,3 +1,7 @@
+# Samuels Note
+
+The src has my own implementation of the osa1/kurssitiedot of the FullStackOpen course
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
